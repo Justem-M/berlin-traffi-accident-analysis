@@ -1,0 +1,27 @@
+
+How Fred can help me
+
+1. Feature Engineering Support
+ - Validate or help refine derived columns
+ - Assist with geospatial features
+ - Time binning and categorisation
+
+2. Exploratory Data Analysis
+ - Visuals to explore accident patterns
+ - Identify which questions can be answered clearly and which need refinement
+
+3. Advanced Analytics... later
+
+
+Suggestions for new variables
+
+1. is_vulnerable_user_involved
+ Cobine bik_inv and pedestrian_inv
+
+2. is_fatal
+
+3. accident_scenario
+
+4. is_night
+
+5. centrality_bin or location_zone
